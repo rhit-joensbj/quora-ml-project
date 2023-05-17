@@ -26,4 +26,20 @@ All of these files can be added directly to this working folder, as paths are st
 - SVM Classifier - `SVM.ipynb`
 - Bi-LSTM w/ Tokenization - `Word_Embeddings.ipynb`
 
-Note: Bi-LSTM will produce differnet results everytime the program runs depending on the batch it generated.
+**Note:** Bi-LSTM will produce different results every time the program runs, depending on the batch it generated.
+
+#### Required Python Packages
+
+- skopt
+- tensorflow
+- tqdm
+- nltk
+- spacy
+
+```bash
+pip install scikit-optimize
+pip install tensorflow
+pip install tqdm
+pip install nltk
+pip install spacy
+```
