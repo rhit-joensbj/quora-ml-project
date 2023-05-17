@@ -2,7 +2,7 @@
 
 ### Julian Fiorito | Ben Joens | Yok Ngammankongtangkit | Andrew Pascente | Ken Zheng | Connie Zhu
 
-### 19 May 2023
+### 16 May 2023
 
 #### How to Run
 
