@@ -14,4 +14,6 @@ Logistic Regression
 
 Naive-Bayes
 
+Random Forests
+
 SVM Classifier
