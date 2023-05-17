@@ -14,7 +14,7 @@ All of these files can be added directly to this working folder, as paths are st
 
 - Data Cleaning - `DataCleaning.ipynb`
 - Demonstration for Presentation - `demo.ipynb`
-- Random Forest - `ForestsOnCompetition.ipynb`
+- Random Forest w/ New Features - `ForestsOnCompetition.ipynb`
 - GBT w/ Undersampling - `GBT_balanced.ipynb`
 - Gradient Boosting Trees - `GBT.ipynb`
 - Human Baseline Measurement - `Human_Baseline.ipynb`
@@ -22,6 +22,7 @@ All of these files can be added directly to this working folder, as paths are st
 - Logistic Regression - `LogisticRegressor.ipynb`
 - Naive-Bayes - `NaiveBayes.ipynb`
 - Bi-LSTM w/o Preprocessing - `Only_Embedding.ipynb`
+- Random Forest w/ Undersampling - `RandomForest.ipynb`
 - SVM Classifier w/ Undersampling - `SVM_balanced.ipynb`
 - SVM Classifier - `SVM.ipynb`
 - Bi-LSTM w/ Tokenization - `Word_Embeddings.ipynb`
