@@ -25,3 +25,5 @@ All of these files can be added directly to this working folder, as paths are st
 - SVM Classifier w/ Undersampling - `SVM_balanced.ipynb`
 - SVM Classifier - `SVM.ipynb`
 - Bi-LSTM w/ Tokenization - `Word_Embeddings.ipynb`
+
+Note: Bi-LSTM will produce differnet results everytime the program runs depending on the batch it generated.
